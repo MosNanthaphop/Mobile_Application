@@ -1,0 +1,12 @@
+{
+    "@@locale": "th",
+    "title": "การตั้งค่า",
+    "default_currency": "สกุลเงินเริ่มต้น",
+    "language": "ภาษา",
+    "appearance": "การแสดงผล",
+    "dark_mode": "โหมดกลางคืน",
+    "from": "จาก",
+    "to": "ถึง",
+    "save_settings": "บันทึกการตั้งค่า"
+  }
+  

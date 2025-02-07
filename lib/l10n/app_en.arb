@@ -1,0 +1,11 @@
+{
+    "@@locale": "en",
+    "title": "Settings",
+    "default_currency": "Default Currencies",
+    "language": "Language",
+    "appearance": "Appearance",
+    "dark_mode": "Dark Mode",
+    "from": "From",
+    "to": "To",
+    "save_settings": "Save Settings"
+}
